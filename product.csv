@@ -1,0 +1,11 @@
+product_id;name;category;price;stock
+1;HP A;Handphone;2.000.000;8
+2;Laptop B;Computer;7.000.000;3
+3;HP C;Handphone;5.000.000;0
+4;PC D;Computer;5.000.000;2
+5;HP E;Handphone;9.000.000;5
+6;Laptop F;Computer;16.800.000;3
+7;TV G;TV;4.000.000;5
+8;TV H;TV;1.500.000;13
+9;Laptop I;Computer;23.000.000;2
+10;HP J;Handphone;10.000.000;6
